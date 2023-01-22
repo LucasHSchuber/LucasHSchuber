@@ -1,9 +1,9 @@
 ### Hello, and welcome!
 
-- Webbdevolper student.
-- Digital design student.
-- Passion for surfing and reading.
-- Lives in Stockholm, Sweden.
+- Webbdevolper student
+- Digital design student
+- Passion for surfing and reading
+- Lives in Stockholm, Sweden
 
 ### Bye, and see you later!
 
