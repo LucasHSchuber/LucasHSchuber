@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello, and welcome!
+
+- Webbdevolper student.
+- Digital design student.
+- Passion for surfing and reading.
+- Lives in Stockholm, Sweden.
+
+### Bye, and see you later!
+
+
+
 
 <!--
 **LucasHSchuber/LucasHSchuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
