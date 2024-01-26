@@ -1,11 +1,9 @@
 ### Hello, and welcome!
 
-- Digital design graduate.
+- Digital design/informatics graduate.
 - Web developer student.
-- Passion for surfing and reading.
+- Passion for surfing, skiing, reading.
 - Lives in Stockholm, Sweden.
-
-
 
 
 
