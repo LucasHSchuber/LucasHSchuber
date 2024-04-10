@@ -1,7 +1,9 @@
 ### Hello, and welcome!
 
+- Software developer & UX/UI designer
+
 - Digital design/informatics graduate.
-- Web developer student.
+- Computer engineering graduate
 - Passion for surfing, skiing, reading.
 - Lives in Stockholm, Sweden.
 
