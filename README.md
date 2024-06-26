@@ -4,7 +4,7 @@
 
 - Digital design/informatics graduate.
 - Computer engineering graduate
-- Passion for surfing, skiing, reading.
+- Passion for surfing, skiing, sailing, reading.
 - Lives in Stockholm, Sweden.
 
 
