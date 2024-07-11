@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a **Software Developer & UX/UI Designer** currently developing software and web applications at **Expres-Bild**. With a blend of technical skills and a keen eye for design, I strive to create intuitive and engaging user experiences.
+I'm a **Software/fullstack Developer & UX/UI Designer** currently developing software and web applications at **Expres-Bild**. With a blend of technical skills and a keen eye for design, I strive to create intuitive and engaging user experiences.
 
 ### What I'm Working On
 
