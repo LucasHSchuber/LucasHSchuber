@@ -9,7 +9,7 @@ I'm a **Software/fullstack Developer & UX/UI Designer** currently developing sof
 - **Expres-Bild**: Currently designing and building softwares and web applications.
 - **Personal Projects**: Always experimenting with new technologies.
 
-### My Passions
+### My Hobbies
 
 - **Surfing**: Riding the waves whenever I can.
 - **Skiing**: Hitting the slopes during the winter months.
