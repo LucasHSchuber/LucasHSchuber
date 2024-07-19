@@ -11,9 +11,9 @@ I'm a **Software/fullstack Developer & UX/UI Designer** currently developing sof
 
 ### My Hobbies
 
-- **Surfing**: Riding the waves whenever I can.
+- **Surfing**: Riding the waves.
 - **Skiing**: Hitting the slopes during the winter months.
-- **Sailing**: Exploring the seas and enjoying the serenity of the open water.
+- **Sailing**: Exploring the Nordic seas.
 - **Reading**: Always on the lookout for a good book.
 
 ### Location
