@@ -28,6 +28,7 @@ Feel free to explore my repositories and get in touch if you want to collaborate
 
 ### Connect with Me
 
+- Portfolio: https://lucasschuberportfolio.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/lucas-hammarstrand-schuber-80670320b/
 - [Email](mailto:lucas.hammarstrand@hotmail.com)
 
