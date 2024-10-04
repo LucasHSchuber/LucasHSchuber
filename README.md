@@ -2,19 +2,19 @@
 
 ### About Me
 
-I'm a **Software/fullstack Developer & UX/UI Designer** currently developing software and web applications at **Express-Bild**. With a blend of technical skills and a keen eye for design, I strive to create intuitive and engaging user experiences.
+I'm a **Software/fullstack Developer & UX/UI Designer** currently developing software and web applications at **Express-Bild**. With a mix of technical skills and an eye for design, I strive to create cool and intuitive user experiences.
 
 ### What I'm Working On
 
 - **Expres-Bild**: Currently designing and building softwares and web applications.
-- **Personal Projects**: Always experimenting with new technologies.
+- **Personal Projects**: Noting currently-.
 
 ### My Hobbies
 
-- **Surfing**: Riding the waves.
-- **Skiing**: Hitting the slopes during the winter months.
-- **Sailing**: Exploring the Nordic seas.
-- **Reading**: Always on the lookout for a good book.
+- **Surfing**: .
+- **Skiing**: 
+- **Sailing**:
+- **Reading**: 
 
 ### Location
 
