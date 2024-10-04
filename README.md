@@ -11,10 +11,10 @@ I'm a **Software/fullstack Developer & UX/UI Designer** currently developing sof
 
 ### My Hobbies
 
-- **Surfing**: .
-- **Skiing**: 
-- **Sailing**:
-- **Reading**: 
+- **Surfing**
+- **Skiing**
+- **Sailing**
+- **Reading** 
 
 ### Location
 
