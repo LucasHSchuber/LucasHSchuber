@@ -2,12 +2,12 @@
 
 ### About Me
 
-I'm a **Software/fullstack Developer & UX/UI Designer** currently developing software and web applications at **Express-Bild**. With a mix of technical skills and an eye for design, I strive to create cool and intuitive user experiences.
+I'm a **Software/fullstack Developer & UX/UI Designer** currently working as software developer building desktop and web applications at **Express-Bild**.
 
 ### What I'm Working On
 
 - **Expres-Bild**: Currently designing and building softwares and web applications.
-- **Personal Projects**: Noting currently-.
+- **Personal Projects**: Currently bulding a desktop application in electron.js and react.js for keeping track of things to do which can be placed in different tags, with correspondning notes. I'm also building a web application with react.js and node.js where users can find songs by recordning it (like shazam) and buidling playlists which possibilities to discover new songs by categories and artists (with spotify's API)
 
 ### My Hobbies
 
@@ -20,11 +20,6 @@ I'm a **Software/fullstack Developer & UX/UI Designer** currently developing sof
 
 📍 **Stockholm, Sweden**
 
----
-
-Feel free to explore my repositories and get in touch if you want to collaborate!
-
----
 
 ### Connect with Me
 
